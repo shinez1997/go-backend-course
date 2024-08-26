@@ -1,0 +1,4 @@
+1. Viết ham nhập 2 cạnh của hình chữ nhật, in ra diện tích, chu vi
+2. Viết chương trình nhập 1 string, in ra true nếu độ dài chuỗi chia hết cho 2, và false nếu ngược lại
+3. Viết chương trình nhập một slice số, in ra tổng, số lớn nhất, số nhỏ nhất, trung bình cộng, slice đã được sắp xếp
+4. Viết chương trình nhập giải bài toán twosum : https://leetcode.com/problems/two-sum/

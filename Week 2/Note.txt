@@ -1,0 +1,4 @@
+Viết hàm tạo ra 1 struct về 1 người (gồm tên, nghề nghiệp, năm sinh) , và struct có method tính tuổi,  method kiểm tra người ấy có hợp với nghề của mình không ( năm sinh chia hết cho số chữ trong tên)
+Viết hàm có input là 1 string, trả về map có key là ký tự, và value là số lần xuất hiện của ký tự đó ở trong string
+Viết hàm giải bài toán twosum : https://leetcode.com/problems/two-sum/ sử dụng map
+Cho 1 file a.txt , trả về slice các struct là người, với các thông tin lấy được từ file đó, tên cần được in hoa tất cả, nghề nghiệp cần được viết thường tất cả ( tham khảo đọc file ở https://zetcode.com/golang/readfile/)

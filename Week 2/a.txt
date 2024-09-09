@@ -1,2 +1,3 @@
 Tran Hong Son,Software Engineer
 Dang Quynh Anh,Software Tester
+Tran Hong Duc,Banker
